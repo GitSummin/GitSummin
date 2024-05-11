@@ -19,3 +19,5 @@ Here's a bit more about what I'm up to and how you can connect with me!
 - ⚡ Fun fact: **I love combining AI with creative endeavors to explore how technology can enhance artistic expression.**
 
 Feel free to reach out if you want to chat about technology, collaborate on a project, or just exchange ideas!
+
+http://mazassumnida.wtf/api/mini/generate_badge?boj={GitSummin}
