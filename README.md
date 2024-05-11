@@ -15,7 +15,7 @@ Here's a bit more about what I'm up to and how you can connect with me!
 - 👯 I’m looking to collaborate on **projects related to generative AI and image processing**.
 - 🤔 I’m looking for help with **navigating complex AI models and optimization techniques**.
 - 💬 Ask me about **anything related to data science, machine learning, or my research area**.
-- 📫 How to reach me: **[Insert your email/contact information here]**
+- 📫 How to reach me: **[kweon9209@inha.edu/kweon9209@gmail.com]**
 - ⚡ Fun fact: **I love combining AI with creative endeavors to explore how technology can enhance artistic expression.**
 
 Feel free to reach out if you want to chat about technology, collaborate on a project, or just exchange ideas!
