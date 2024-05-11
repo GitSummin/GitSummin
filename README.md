@@ -21,6 +21,6 @@ Here's a bit more about what I'm up to and how you can connect with me!
 Feel free to reach out if you want to chat about technology, collaborate on a project, or just exchange ideas!
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={GitSummin})](https://solved.ac/{GitSummin})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kweon9209})](https://solved.ac/{kweon9209})
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={GitSummin})](https://solved.ac/{GitSummin})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kweon9209})](https://solved.ac/{kweon9209})
