@@ -20,3 +20,4 @@ Here's a bit more about what I'm up to and how you can connect with me!
 
 Feel free to reach out if you want to chat about technology, collaborate on a project, or just exchange ideas!
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={GitSummin})](https://solved.ac/{GitSummin})
