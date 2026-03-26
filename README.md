@@ -21,23 +21,5 @@ Here's a bit more about what I'm up to and how you can connect with me!
 Feel free to reach out if you want to chat about technology, collaborate on a project, or just exchange ideas!
 
 ### Papers
-@article{kwon2026frequency,
-  title={Frequency-aware priors for variational autoencoders under class imbalance},
-  author={Kwon, Soomin and Jo, Seongil and Kim, Jaeoh},
-  journal={Neurocomputing},
-  pages={132967},
-  year={2026},
-  publisher={Elsevier}
-}
-
-@article{kim2026enhancing,
-  title={Enhancing object detection algorithm for size-insensitive performance},
-  author={Kim, Hyoju and Kwon, Soomin and Kim, Jaeoh},
-  journal={Machine Vision and Applications},
-  volume={37},
-  number={3},
-  pages={42},
-  year={2026},
-  publisher={Springer}
-}
-
+[1] Kwon, Soomin, Seongil Jo, and Jaeoh Kim. "Frequency-aware priors for variational autoencoders under class imbalance." Neurocomputing (2026): 132967.
+[2] Kim, Hyoju, Soomin Kwon, and Jaeoh Kim. "Enhancing object detection algorithm for size-insensitive performance." Machine Vision and Applications 37.3 (2026): 42.
