@@ -72,6 +72,31 @@ I take projects from data and leakage audits through model design, controlled ev
 - **Evaluation beyond a single benchmark** — use disjoint splits, ablations, statistical comparisons, failure analysis, and external validation.
 - **Reproducibility as a research output** — connect papers to readable implementations, documented data curation, and auditable evaluation pipelines.
 
+## Technical stack
+
+### Languages, frameworks, and infrastructure
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+| Area | Technologies and methods |
+|---|---|
+| **Programming & data** | Python · Java · SQL · NumPy · pandas · SciPy |
+| **Deep learning & ML** | PyTorch · TensorFlow · torchvision · scikit-learn · TensorBoard |
+| **Scientific & graph ML** | RDKit · NetworkX · GeomLoss · molecular graphs · optimal transport |
+| **Computer vision** | OpenCV · pycocotools · scikit-image · image generation · object detection |
+| **Generative & language AI** | Diffusion models · Flow Matching · VAEs · Transformers · RAG · agentic workflows |
+| **Databases & engineering** | MySQL · Docker · Git · Linux · Conda · reproducible experiment pipelines |
+| **Analysis & communication** | Matplotlib · Jupyter · LaTeX · statistical testing · ablation and failure analysis |
+
 ## Education
 
 **M.S. in Statistics and Data Science**, Inha University  
