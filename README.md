@@ -34,7 +34,7 @@ I take projects from data and leakage audits through model design, controlled ev
 
 ## Main research
 
-| Project | Core contribution | Selected result / status | Resources |
+| Project | Core contribution | Main result / status | Resources |
 |---|---|---|---|
 | **GA-KROT-FM** | Source-specific geometric gating for locality-constrained diversity in annealed OT Flow Matching | CIFAR-10, NFE=4: FID **57.26 → 28.04** and coverage **0.4855 → 0.6592** vs. independent coupling · Under review at *Expert Systems with Applications* | Manuscript under review |
 | **FAP-VAE** | Frequency-aware class-conditional prior adaptation for imbalanced latent learning | MNIST under 10% minority sampling: NMI **0.993**, ARI **0.983** · Published in *Neurocomputing* | [Paper](https://doi.org/10.1016/j.neucom.2026.132967) · [Code](https://github.com/GitSummin/FAP-VAE) |
