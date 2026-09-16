@@ -32,7 +32,7 @@ I take projects from data and leakage audits through model design, controlled ev
 - **Reliable scientific AI** — revising **HDD-CMS** for reference-scarce mass spectrometry and advancing **RoMSH**, an RT-ordered mixture model for chemical-hazard prediction.
 - **Adaptive evidence-grounded systems** — studying query-type-aware retrieval and claim-level verification rather than applying the same reasoning path to every question.
 
-## Selected research
+## Main research
 
 | Project | Core contribution | Selected result / status | Resources |
 |---|---|---|---|
