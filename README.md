@@ -97,6 +97,22 @@ I take projects from data and leakage audits through model design, controlled ev
 | **Databases & engineering** | MySQL · Docker · Git · Linux · Conda · reproducible experiment pipelines |
 | **Analysis & communication** | Matplotlib · Jupyter · LaTeX · statistical testing · ablation and failure analysis |
 
+## Certifications & honors
+
+### Professional certifications
+
+| Certification | Date awarded |
+|---|---|
+| **Big Data Analysis Engineer** (빅데이터분석기사) | Dec. 19, 2025 |
+| **SQL Developer (SQLD)** | Oct. 6, 2023 |
+| **Computer Specialist in Spreadsheet & Database, Level 1** (컴퓨터활용능력 1급) | Aug. 4, 2023 |
+| **Advanced Data Analytics Semi-Professional (ADsP)** | Mar. 24, 2023 |
+
+### Honors & competitions
+
+- **Excellence Award, Planning Division** — Inha University–Sejong University Joint Academic Festival, Aug. 2023
+- **Advanced to the final round** — 11th Software Development Security Competition (소개딩), 2024
+
 ## Education
 
 **M.S. in Statistics and Data Science**, Inha University  
