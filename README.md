@@ -1,50 +1,76 @@
+<div align="center">
+
 # Soomin Kwon
 
-**M.S. Researcher in Statistics & Data Science, Inha University**  
-Generative AI · Efficient Generative Modeling · Adaptive Inference · Scientific Machine Learning
+**M.S. Researcher in Statistics & Data Science at Inha University**
 
-My research focuses on **generative AI under data, reference, and computational constraints**. I am particularly interested in diffusion models, Flow Matching, probabilistic learning, and adaptive inference—especially how model design and inference-time computation can remain efficient and reliable under non-ideal conditions.
+Reliable Generative AI · Scientific Machine Learning · Structure-Aware Prediction
 
-## Research Directions
+[![Email](https://img.shields.io/badge/Email-kweon9209%40inha.edu-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:kweon9209@inha.edu)
+[![GitHub](https://img.shields.io/badge/Open_Research_Code-GitSummin-181717?style=flat-square&logo=github)](https://github.com/GitSummin)
 
-- **Efficient Generative Modeling** — few-step diffusion/flow, low-NFE generation, source–target coupling, trajectory geometry
-- **Robust & Adaptive Learning** — class imbalance, reference scarcity, distribution shift, uncertainty, external validation
-- **Adaptive Inference & Reasoning** — inference-time adaptation, test-time scaling, selective verification, computation allocation
-- **Scientific AI** — structure-conditioned generative modeling and learning from scientific data
+</div>
 
-## Selected Research
+I study how machine-learning systems can remain **informative, reliable, and efficient when data are scarce or imbalanced, structural constraints are domain-specific, or reference evidence is incomplete**. My work connects generative modeling, scientific AI, structured prediction, and evidence-grounded language systems.
 
-### GA-KROT-FM
-**Geometry-Aware Locally Constrained Optimal Transport for Low-NFE Flow Matching**  
-Studies how source–target coupling affects trajectory geometry and low-NFE generation quality, and introduces locality-constrained diversity within balanced optimal-transport coupling.  
-*First-author manuscript under review at Expert Systems with Applications.*
+I take projects from data and leakage audits through model design, controlled evaluation, external validation, manuscript revision, and research-software release.
 
-### FAP-VAE / FAP-DDPM
-**Frequency-Aware Generative Modeling under Class Imbalance**  
-FAP-VAE introduces frequency-aware class-conditional prior adaptation to mitigate minority-class representation collapse. The published VAE work is being extended toward long-tailed diffusion through FAP-DDPM.  
-**Paper:** *Neurocomputing* 681, 132967 (2026) · [DOI](https://doi.org/10.1016/j.neucom.2026.132967) · [Code](https://github.com/GitSummin/FAP-VAE)
+## Research at a glance
 
-### HDD-CMS
-**Structure-Conditioned Diffusion for Reference-Scarce Mass Spectrometry**  
-A molecular-structure-conditioned diffusion framework for generating candidate EI mass spectra when experimental reference coverage is limited.  
-*First-author manuscript in major revision at Journal of Cheminformatics.* · [Code](https://github.com/GitSummin/HDD-CMS)
+| | |
+|---|---|
+| **Research themes** | Data-aware generative modeling · Structure-aware prediction · Evidence-grounded AI |
+| **Peer-reviewed papers** | 2 publications (first author / equal contribution) |
+| **Active manuscripts** | 3 under review or major revision · 2 completed |
+| **Open research software** | 5 highlighted repositories spanning generative AI, scientific ML, vision, and optimization |
+| **Education** | M.S. Statistics & Data Science, Inha University (expected Aug. 2027) |
 
-### Query-Type-Aware Agentic RAG
-**Adaptive Retrieval, Generation, and Evidence Verification**  
-Investigates adaptive execution policies that vary retrieval, synthesis, and verification depth according to question complexity rather than applying the same computational path to every input.  
-*First-author manuscript in major revision.*
+## What I am working on now
 
-### B-MOD
-**Distribution-Aware Localization for Scale-Robust Object Detection**  
-Models bounding boxes as distributions and uses a Bhattacharyya-distance-based objective to reduce scale-dependent localization bias.  
-**Paper:** *Machine Vision and Applications* 37, Article 42 (2026) · [DOI](https://doi.org/10.1007/s00138-026-01803-2) · [Code](https://github.com/GitSummin/B-MOD_Yolov4)
+- **Low-NFE generative modeling** — developing GA-KROT-FM for locality-constrained diversity in optimal-transport Flow Matching, while extending frequency-aware priors from VAEs to long-tailed diffusion through **FAP-DDPM**.
+- **Structure-aware visual reasoning** — incorporating ontology constraints into scene-graph learning through curriculum, soft-target, pair-adaptive, and confidence-weighted strategies.
+- **Reliable scientific AI** — revising **HDD-CMS** for reference-scarce mass spectrometry and advancing **RoMSH**, an RT-ordered mixture model for chemical-hazard prediction.
+- **Adaptive evidence-grounded systems** — studying query-type-aware retrieval and claim-level verification rather than applying the same reasoning path to every question.
 
-## Publications & Manuscripts
+## Selected research
 
-1. **S. Kwon**, S. Jo, and J. Kim. “Frequency-aware priors for variational autoencoders under class imbalance.” *Neurocomputing*, 681, 132967, 2026. **First author.**
-2. H. Kim*, **S. Kwon***, and J. Kim. “Enhancing object detection algorithm for size-insensitive performance.” *Machine Vision and Applications*, 37, Article 42, 2026. **Equal contribution.**
-3. **S. Kwon**, H. Kim, Y. Jin, and J. Kim. “Structure-conditioned diffusion recovers mass spectra for reference-scarce compounds.” *Journal of Cheminformatics*. **First author; major revision.**
-4. **S. Kwon** and J. Kim. “GA-KROT-FM: Gated annealed kernel-repulsive optimal-transport flow matching.” *Expert Systems with Applications*. **First author; under review.**
+| Project | Core contribution | Selected result / status | Resources |
+|---|---|---|---|
+| **GA-KROT-FM** | Source-specific geometric gating for locality-constrained diversity in annealed OT Flow Matching | CIFAR-10, NFE=4: FID **57.26 → 28.04** and coverage **0.4855 → 0.6592** vs. independent coupling · Under review at *Expert Systems with Applications* | Manuscript under review |
+| **FAP-VAE** | Frequency-aware class-conditional prior adaptation for imbalanced latent learning | MNIST under 10% minority sampling: NMI **0.993**, ARI **0.983** · Published in *Neurocomputing* | [Paper](https://doi.org/10.1016/j.neucom.2026.132967) · [Code](https://github.com/GitSummin/FAP-VAE) |
+| **HDD-CMS** | Molecular-graph-conditioned diffusion for generating candidate EI mass spectra under limited reference coverage | Evaluated on **5,162 molecules / 305,966 peak rows** with random and scaffold-disjoint splits · Major revision at *Journal of Cheminformatics* | [Code](https://github.com/GitSummin/HDD-CMS) |
+| **RoMSH** | Hierarchical Transformer with explicit retention-time ordering and context suppression for chemical mixtures | Cross-material F1 **0.984**; field-sample AUROC **0.981** · Manuscript completed | [Code](https://github.com/GitSummin/RoMSH) |
+| **Query-Type-Aware Agentic RAG** | Eight-type routing with shared retrieval, type-conditioned synthesis, and claim-level selective revision | Hard-QA accuracy **0.817 vs. 0.683** for Basic RAG · Major revision | Manuscript in revision |
+| **B-MOD** | Bhattacharyya-distance localization objective for scale-robust object detection | Generalized across detector families and datasets · Published in *Machine Vision and Applications* | [Paper](https://doi.org/10.1007/s00138-026-01803-2) · [Code](https://github.com/GitSummin/B-MOD_Yolov4) |
+
+## Publications
+
+### Peer-reviewed
+
+1. **S. Kwon**, S. Jo, and J. Kim. “Frequency-aware priors for variational autoencoders under class imbalance.” *Neurocomputing*, 681, 132967, 2026. **First author.** [DOI](https://doi.org/10.1016/j.neucom.2026.132967)
+2. H. Kim*, **S. Kwon***, and J. Kim. “Enhancing object detection algorithm for size-insensitive performance.” *Machine Vision and Applications*, 37, Article 42, 2026. **Equal contribution.** [DOI](https://doi.org/10.1007/s00138-026-01803-2)
+
+### Under review or completed
+
+- **S. Kwon**, H. Kim, Y. Jin, and J. Kim. “Structure-conditioned diffusion recovers mass spectra for reference-scarce compounds.” *Journal of Cheminformatics*. **First author; major revision.**
+- **S. Kwon** and J. Kim. “Query-type-aware agentic RAG adapts its execution path to question complexity.” *KIPS Transactions on Computer and Communication Systems*. **First author; major revision.**
+- **S. Kwon** and J. Kim. “GA-KROT-FM: Gated annealed kernel-repulsive optimal-transport flow matching.” *Expert Systems with Applications*. **First author; under review.**
+- **S. Kwon** et al. “RoMSH: RT-ordered mixture sequence modeling for hazard prediction.” **First author; manuscript completed.**
+- **S. Kwon** et al. “Context-aware diffusion-Transformer synthesis of rare TEL objects.” **Co-first author; manuscript completed.**
+
+## Open research software
+
+- [**FAP-VAE**](https://github.com/GitSummin/FAP-VAE) — frequency-aware latent-prior learning under class imbalance
+- [**HDD-CMS**](https://github.com/GitSummin/HDD-CMS) — structure-conditioned diffusion for candidate EI spectrum generation
+- [**RoMSH**](https://github.com/GitSummin/RoMSH) — retention-time-ordered chemical-mixture modeling
+- [**B-MOD_Yolov4**](https://github.com/GitSummin/B-MOD_Yolov4) — distribution-aware localization for object detection
+- [**WTA-DDP**](https://github.com/GitSummin/WTA-DDP) — deterministic dynamic programming for weapon-target assignment
+
+## Research principles
+
+- **Domain structure as an inductive bias** — encode chemical graphs, retention-time order, ontology constraints, or source-target geometry when they are part of the problem.
+- **Evaluation beyond a single benchmark** — use disjoint splits, ablations, statistical comparisons, failure analysis, and external validation.
+- **Reproducibility as a research output** — connect papers to readable implementations, documented data curation, and auditable evaluation pipelines.
 
 ## Education
 
@@ -52,16 +78,10 @@ Models bounding boxes as distributions and uses a Bhattacharyya-distance-based o
 Mar. 2026 – Aug. 2027 (expected) · Data Science Track · Advisor: Prof. Jaeoh Kim
 
 **B.S. in Data Science; Double Major in AI Engineering**, Inha University  
-Mar. 2022 – Feb. 2026 · Graduated first in the department · GPA 4.25/4.50
-
-## Selected Repositories
-
-- [FAP-VAE](https://github.com/GitSummin/FAP-VAE)
-- [HDD-CMS](https://github.com/GitSummin/HDD-CMS)
-- [RoMSH](https://github.com/GitSummin/RoMSH)
-- [B-MOD_Yolov4](https://github.com/GitSummin/B-MOD_Yolov4)
-- [WTA-DDP](https://github.com/GitSummin/WTA-DDP)
+Mar. 2022 – Feb. 2026 · Graduated first in the department · GPA: 4.25/4.50
 
 ## Contact
 
-**Email:** kweon9209@inha.edu
+I am interested in research conversations and collaborations around reliable generative modeling, scientific AI, and structure-aware learning.
+
+**Email:** [kweon9209@inha.edu](mailto:kweon9209@inha.edu)
