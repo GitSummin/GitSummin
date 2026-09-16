@@ -8,6 +8,7 @@ Reliable Generative AI · Scientific Machine Learning · Structure-Aware Predict
 
 [![Email](https://img.shields.io/badge/Email-kweon9209%40inha.edu-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:kweon9209@inha.edu)
 [![GitHub](https://img.shields.io/badge/Open_Research_Code-GitSummin-181717?style=flat-square&logo=github)](https://github.com/GitSummin)
+[![Research Portfolio](https://img.shields.io/badge/Research_Portfolio-Download_PDF-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/GitSummin/GitSummin/raw/main/Research_Portfolio_Soomin_Kwon.pdf?download=1)
 
 </div>
 
