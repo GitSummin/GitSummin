@@ -47,7 +47,7 @@ I take projects from data and leakage audits through model design, controlled ev
 | **RoMSH** | Hierarchical Transformer with explicit retention-time ordering and context suppression for chemical mixtures | Cross-material F1 **0.984**; field-sample AUROC **0.981** · Manuscript completed; preparing for submission to *Journal of Chemical Information and Modeling* | [Code](https://github.com/GitSummin/RoMSH) |
 | **Query-Type-Aware Agentic RAG** | Eight-type routing with shared retrieval, type-conditioned synthesis, and claim-level selective revision | Hard-QA accuracy **0.817 vs. 0.683** for Basic RAG · Major revision / second-round review | Manuscript in revision |
 | **B-MOD** | Bhattacharyya-distance localization objective for scale-robust object detection | Generalized across detector families and datasets · Published in *Machine Vision and Applications* | [Paper](https://doi.org/10.1007/s00138-026-01803-2) · [Code](https://github.com/GitSummin/B-MOD_Yolov4) |
-| **Diff-Trans-TEL** | Context-aware diffusion–Transformer synthesis for scarce TEL targets | GAN baseline 대비 FID **−39.2%**; downstream mAP@0.5 **0.6260 → 0.6647** · Co-first author; manuscript completed | [Code](https://github.com/GitSummin/DiffTrans-TEL) |
+| **Diff-Trans-TEL** | Context-aware diffusion–Transformer synthesis for scarce TEL targets | FID **−39.2%** vs. the GAN baseline; downstream mAP@0.5 **0.6260 → 0.6647** · Co-first author; manuscript completed | [Code](https://github.com/GitSummin/DiffTrans-TEL) |
 
 ## Publications
 
@@ -55,7 +55,7 @@ I take projects from data and leakage audits through model design, controlled ev
 
 1. **S. Kwon**, S. Jo, and J. Kim. “Frequency-aware priors for variational autoencoders under class imbalance.” *Neurocomputing*, 681, 132967, 2026. **First author.** [DOI](https://doi.org/10.1016/j.neucom.2026.132967)
 2. H. Kim*, **S. Kwon***, and J. Kim. “Enhancing object detection algorithm for size-insensitive performance.” *Machine Vision and Applications*, 37, Article 42, 2026. **Equal contribution.** [DOI](https://doi.org/10.1007/s00138-026-01803-2)
-3. H. Kim, S. Jo, **S. Kwon**, et al. “동적계획법 기반 무기–표적 할당 최적화.” *Journal of the Korea Society for Defense Management Analysis*. **Third author; peer-reviewed KCI publication.**
+3. “동적계획법 기반 무기–표적 할당 최적화.” *Journal of the Korea Society for Defense Management Analysis*. **S. Kwon: third author; peer-reviewed KCI publication.**
 
 ### Under review or completed
 
