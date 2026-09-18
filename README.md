@@ -120,25 +120,31 @@ These outputs were developed as working research software and transferred as pro
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-| Area | Technologies and methods |
-|---|---|
-| **Programming & data** | Python · Java · SQL · NumPy · pandas · SciPy |
-| **Deep learning & ML** | PyTorch · TensorFlow · torchvision · scikit-learn · XGBoost · TensorBoard |
-| **Scientific & graph ML** | RDKit · molecular graphs · GNNs · NetworkX · GeomLoss · GC-MS / EI-MS preprocessing |
-| **Computer vision** | YOLOv4 / YOLOv8 · OpenCV · pycocotools · scikit-image · scene graph generation · image generation / inpainting |
-| **Generative & language AI** | VAEs · conditional diffusion · Flow Matching · textual inversion · Transformers · RAG · agentic workflows |
-| **Time-series & signal processing** | MiniROCKET · Signature-Kernel GP · Wavelet-PCA · CUSUM change-point detection · multichannel sensor modeling |
-| **Optimization & statistics** | Dynamic programming · entropic optimal transport · numerical optimization · paired t-test · McNemar test · confidence intervals · multi-seed evaluation |
-| **Databases & engineering** | MySQL · Docker · Git · Linux · Conda · multiprocessing · reproducible experiment pipelines |
-| **Analysis & communication** | Matplotlib · Jupyter · LaTeX · ablation studies · failure analysis · external-validation design |
+| Area | Technologies and methods | Representative use |
+|---|---|---|
+| **Programming & data** | Python (primary) · SQL · Java · NumPy · pandas · SciPy | Research implementation, data processing, database-backed applications |
+| **Deep learning & ML** | PyTorch · TensorFlow · scikit-learn · XGBoost · torchvision · TensorBoard | End-to-end model development across generative AI, vision, scientific ML, and sensor learning |
+| **Generative AI** | VAE · conditional diffusion · Flow Matching · textual inversion · Transformer inpainting | FAP-VAE · HDD-CMS · GA-KROT-FM · Diff-Trans-TEL |
+| **Computer vision** | YOLOv4 / YOLOv8 · distribution-based box losses · scene graph generation · super-resolution / inpainting evaluation · OpenCV | B-MOD · Ontology-Aware SGG · image-quality / restoration projects |
+| **LLM & RAG** | Agentic RAG · query-type routing · multi-query retrieval · evidence verification · claim-level selective revision | Query-Type-Aware Agentic RAG |
+| **Scientific & molecular ML** | RDKit · molecular graphs · GNNs · GC-MS / EI-MS preprocessing · NIST / MoNA conversion | HDD-CMS · RoMSH |
+| **Time-series & signal processing** | MiniROCKET · Signature-Kernel GP · Wavelet-PCA · CUSUM change-point detection | Multichannel CBRN sensor modeling |
+| **Optimization** | Dynamic programming · entropic optimal transport · numerical optimization | WTA-DDP · GA-KROT-FM |
+| **Statistical evaluation** | paired t-test · McNemar test · 95% confidence intervals · multi-seed evaluation | Controlled comparisons, ablations, significance testing, external validation |
+| **Data & research infrastructure** | MySQL · Docker · Git · multiprocessing / CPU binding · reproducible experiment pipelines | Dataset management and reproducible research workflows |
+| **Web / full-stack** | Flask · SQLAlchemy ORM · SQLite · HTML · CSS · JavaScript · Figma | DOPA Time · I44U |
+| **Research communication** | Matplotlib · Jupyter · LaTeX · failure analysis · external-validation design | Manuscripts, figures, ablation studies, and research reporting |
 
 ## Certifications & honors
 
